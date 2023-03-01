@@ -1,3 +1,9 @@
+/*
+Ariff bin Mohammed Yazid
+22000399
+COE
+*/
+
 public class Main {
     public static void main(String[] args) {
         TCenter tc1 = new TCenter(100, 100);
